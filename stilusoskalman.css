@@ -5,6 +5,7 @@ h1{
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 20px;
+    background-color: thistle;
 }
 
 a{
@@ -60,4 +61,11 @@ img{
     display: block;
     margin: 0 auto;
     float: end;
+}
+
+body {
+    background-color: beige;
+    color: khaki;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
