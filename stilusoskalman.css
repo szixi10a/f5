@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: #333;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a{
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover{
+text-decoration: underline;
+}
+
+a:visited{
+    color: blueviolet;
+}
